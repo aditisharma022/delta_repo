@@ -1,0 +1,2 @@
+[functions.event-intel]
+verify_jwt = false
